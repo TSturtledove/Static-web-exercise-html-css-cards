@@ -15,13 +15,18 @@ body {
   width: 30%;
   margin: 8px;
   padding: 5px;
+  border: 1px solid lightblue;
 }
 
 .img {
-  width: 75%;
+  width: 100%;
+
 }
 
-
+.status {
+  background-color: darkgray;
+  color: yellow;
+}
 
 
 
