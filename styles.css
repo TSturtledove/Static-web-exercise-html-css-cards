@@ -6,6 +6,11 @@ body {
 
 }
 
+
+header {
+  font-weight: bold;
+}
+
 .pageContainer {
   display: flex;
   flex-wrap: wrap;
@@ -28,7 +33,7 @@ body {
 }
 
 .status {
-  background-color: darkgray;
+  background-color: darkgrey;
   color: yellow;
 }
 
@@ -36,7 +41,13 @@ body {
   display: block;
 }
 
+.box {
+  border: 1px dotted lightgray;
+}
 
+.last {
+  font-size: .5em;
+}
 
 
 
