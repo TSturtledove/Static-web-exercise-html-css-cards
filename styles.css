@@ -3,11 +3,12 @@
 
 body {
   font-family: Verdana, Geneva, sans-serif;
-  
+
 }
 
 
-/*article1
+/*article1, needs a border, 1px solid lightblue
+header, has a border of 1px dotted lightgray
 section1
 element1-picture
 element2-discription
