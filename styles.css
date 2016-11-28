@@ -23,6 +23,10 @@ body {
 
 }
 
+.description {
+  text-align: justify;
+}
+
 .status {
   background-color: darkgray;
   color: yellow;
