@@ -13,7 +13,29 @@ body {
 
 .window {
   width: 30%;
+  margin: 8px;
+  padding: 5px;
 }
+
+.img {
+  width: 75%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*article1, needs a border, 1px solid lightblue
 header, has a border of 1px dotted lightgray
 section1
